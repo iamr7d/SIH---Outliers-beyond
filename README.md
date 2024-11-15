@@ -1,5 +1,8 @@
 # SIH FINAL DATASET
 
+![Slide 16_9 - 2](https://github.com/user-attachments/assets/a165fe4a-3ef0-417e-8808-ffd5a1a6472a)
+
+
 This repository contains the **Smart India Hackathon (SIH) Final Dataset** in the form of an Excel file. The dataset provides valuable insights into the selection process of the SIH event, showcasing the teams that made it to the finals and other related information.
 
 ## Dataset Overview
