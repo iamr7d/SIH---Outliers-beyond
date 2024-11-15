@@ -1,4 +1,4 @@
-# SIH FINAL DATASET
+# SMART INDIA HACKATHON - SMART INDIA HACKATHON CONCERNS & OUTLIERS
 
 ![Slide 16_9 - 2](https://github.com/user-attachments/assets/a165fe4a-3ef0-417e-8808-ffd5a1a6472a)
 
